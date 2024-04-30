@@ -1,0 +1,253 @@
+
+
+i.fa.fa-plus.fa-style {
+    font-size: 20px;
+    color: #000;
+}
+i.fa.fa-minus.fa-style {
+    font-size: 20px;
+    color: #000;
+}
+i.fa.fa-plus.fa-style:hover {
+    color: brown;
+}
+i.fa.fa-minus.fa-style:hover {
+    color: brown;
+}
+.wrapper_chitiet{
+    height: auto;
+    width: 90%;
+    margin:0 auto;
+}
+
+.hinhanh_sanpham{
+    float: left;
+    width: 30%;
+}
+.chitiet_sanpham{
+    float: left;
+    width: 49%;
+    margin:0 10px;
+}
+input.themgiohang {
+    border: none;
+    border-radius: 10px;
+    background: cadetblue;
+    color: #fff;
+    padding: 12px;
+    font-size: 15px;
+    cursor: pointer;
+}
+input.btndangky{
+    border: none;
+    border-radius: 10px;
+    background: cadetblue;
+    color: #fff;
+    padding: 12px;
+    font-size: 15px;
+    cursor: pointer;
+    
+}
+input.btndangky:hover{
+    background: rgb(22, 111, 119);
+}
+input.btntimkiem{
+    border: none;
+    
+}
+input.dangnhap{
+    border: none;
+    border-radius: 10px;
+    background: cadetblue;
+    color: #fff;
+    padding: 10px;
+    font-size: 12px;
+    cursor: pointer;
+    
+}
+button.btndathang:hover{
+    background: rgb(22, 111, 119);
+
+}
+button.btndkydathang:hover{
+    background: rgb(22, 111, 119);
+
+}
+/* .header{
+	background-image: url("../images/banner.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 300px;
+	border:1px solid rgb(134, 132, 132);
+	height: 300px;
+	width: 100%;
+	
+} */
+
+.img
+{
+    width: 100%;
+    height: 300px;
+}
+
+.menu{
+	border:1px solid rgb(134, 132, 132);
+	
+	width: 100%;
+	background: gray;
+    
+}
+ul.list_menu {
+    padding: 0;
+    margin: 0;
+    width: 70%;
+    border: 1px solid;
+    list-style: none;
+    margin: 0 auto;
+    line-height: 27px;
+
+}
+ul.list_menu li:hover {
+    background: cadetblue;
+}
+ul.list_menu li a {
+    text-decoration: none;
+    text-align: center;
+    color: #ffffff;
+}
+ul.list_menu li {
+    float: left;
+   
+    margin: 7px;
+    padding: 5px;
+   
+}
+#main{
+	width: 100%;
+}
+.sidebar{
+	border:1px solid #575758;
+	height: 417px;
+	width: 20%;
+	margin-top: 2%;
+	
+	float: left;
+    background-color: rgb(158, 155, 155);
+
+}
+ul.list_sidebar {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    border: 1px solid;
+    list-style: none;
+    line-height: 200%;
+
+}
+ul.list_sidebar li:hover {
+    background: cadetblue;
+}
+ul.list_sidebar li a {
+    text-decoration: none;
+    text-align: left;
+    color: white;
+    display: block;
+}
+ul.list_sidebar li {
+    margin: 7px;
+    padding: 5px;
+   
+}
+.maincontent{
+	
+	height: auto;
+	width: 100%;
+    margin-bottom: 5%;
+}
+ul.product_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    width: 100%;
+}
+ul.product_list li img {
+    height: 190px;
+
+}
+ul.product_list li {
+    width: 19%;
+    border: 1px;
+    float: left;
+    height: 300px;
+    margin-left: 1%;
+}
+ul.product_list li a {
+    text-decoration: none;
+}
+ul.product_list li img {
+    width: 100%;
+}
+p.price_product {
+    text-align: center;
+    color: red;
+    font-size: 16px;
+    font-weight: bold;
+}
+p.title_product {
+    text-align: center;
+    color: #000;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.clear{
+	clear: both;
+}
+
+.dangky
+{
+    margin: 0px auto;
+}
+.dangkycs
+{
+    background: tomato;
+    width: 30%;
+    height: auto;
+}
+
+.cmt
+{
+    margin-top: 30px;
+    width: 80%;
+    float: left;
+    height: auto;
+}
+.cmt div
+{
+    margin: 0px auto;
+    width: 80%;
+    height: auto;
+}
+
+.cmt2
+{
+    margin-top: 30px;
+    width: auto;
+    float: left;
+    height: auto;
+    width: 60%;
+}
+.cmt2 div
+{
+    margin: 0px auto;
+    width: 80%;
+    height: auto;
+    border-radius: 10%;
+    min-height: 100px;
+    margin-top: 10px;
+}
+.cmt2 div div
+{
+    float: left;
+    width: 10%;
+    height: 10%;
+}
