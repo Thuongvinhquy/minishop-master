@@ -1,6 +1,6 @@
 <?php 
 
-	$mysqli = new mysqli("localhost","root","","web_mysqli");
+	$mysqli = new mysqli("localhost","user","159263Quy*","web_mysqli");
 
 	// Check connection
 	if ($mysqli->connect_errno) {
